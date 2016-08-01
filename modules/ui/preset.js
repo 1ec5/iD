@@ -86,6 +86,10 @@ export function preset(context) {
 
             fieldsArr = [UIField(context.presets().field('name'), entity)];
 
+            if (preset.tags.type === 'route' && 'route' in preset.tags) {
+                fieldsArr.push(UIField(context.presets().field('ref'), entity, true));
+            }
+
             preset.fields.forEach(function(field) {
                 if (field.matchGeometry(geometry)) {
                     fieldsArr.push(UIField(field, entity, true));

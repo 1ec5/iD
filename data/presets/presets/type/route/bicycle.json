@@ -9,7 +9,6 @@
     "name": "Cycle Route",
     "icon": "route-bicycle",
     "fields": [
-        "ref",
         "network_bicycle",
         "cycle_network"
     ]

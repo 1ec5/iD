@@ -9,7 +9,6 @@
     "name": "Road Route",
     "icon": "route-road",
     "fields": [
-        "ref",
         "network"
     ]
 }

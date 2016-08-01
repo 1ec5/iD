@@ -10727,7 +10727,6 @@
         "name": "Cycle Route",
         "icon": "route-bicycle",
         "fields": [
-            "ref",
             "network_bicycle",
             "cycle_network"
         ]
@@ -10743,7 +10742,6 @@
         "name": "Bus Route",
         "icon": "route-bus",
         "fields": [
-            "ref",
             "operator",
             "network"
         ]
@@ -10758,9 +10756,7 @@
         },
         "name": "Detour Route",
         "icon": "route-detour",
-        "fields": [
-            "ref"
-        ]
+        "fields": []
     },
     "type/route/ferry": {
         "geometry": [
@@ -10773,7 +10769,6 @@
         "name": "Ferry Route",
         "icon": "route-ferry",
         "fields": [
-            "ref",
             "operator",
             "network"
         ]
@@ -10789,7 +10784,6 @@
         "name": "Foot Route",
         "icon": "route-foot",
         "fields": [
-            "ref",
             "operator",
             "network_foot"
         ]
@@ -10805,7 +10799,6 @@
         "name": "Hiking Route",
         "icon": "route-foot",
         "fields": [
-            "ref",
             "operator",
             "network_foot"
         ]
@@ -10821,7 +10814,6 @@
         "name": "Riding Route",
         "icon": "route-horse",
         "fields": [
-            "ref",
             "operator",
             "network_horse"
         ]
@@ -10837,7 +10829,6 @@
         "name": "Pipeline Route",
         "icon": "route-pipeline",
         "fields": [
-            "ref",
             "operator"
         ]
     },
@@ -10852,7 +10843,6 @@
         "name": "Power Route",
         "icon": "route-power",
         "fields": [
-            "ref",
             "operator"
         ]
     },
@@ -10867,7 +10857,6 @@
         "name": "Road Route",
         "icon": "route-road",
         "fields": [
-            "ref",
             "network"
         ]
     },
@@ -10882,7 +10871,6 @@
         "name": "Train Route",
         "icon": "route-train",
         "fields": [
-            "ref",
             "operator",
             "network"
         ]
@@ -10898,7 +10886,6 @@
         "name": "Tram Route",
         "icon": "route-tram",
         "fields": [
-            "ref",
             "operator",
             "network"
         ]

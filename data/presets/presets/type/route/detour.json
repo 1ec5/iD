@@ -8,7 +8,5 @@
     },
     "name": "Detour Route",
     "icon": "route-detour",
-    "fields": [
-        "ref"
-    ]
+    "fields": []
 }

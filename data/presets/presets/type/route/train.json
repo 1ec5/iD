@@ -9,7 +9,6 @@
     "name": "Train Route",
     "icon": "route-train",
     "fields": [
-        "ref",
         "operator",
         "network"
     ]
