@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:AL"
+    },
+    "name": "Alabama State Route",
+    "terms": [
+        "al"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

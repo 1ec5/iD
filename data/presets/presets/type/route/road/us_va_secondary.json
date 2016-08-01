@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:VA:secondary"
+    },
+    "name": "Virginia Secondary State Route",
+    "terms": [
+        "va"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

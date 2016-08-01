@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:WI"
+    },
+    "name": "Wisconsin State Trunk Highway",
+    "terms": [
+        "wisconsin highway",
+        "wis"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

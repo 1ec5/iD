@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:FL"
+    },
+    "name": "Florida State Road",
+    "terms": [
+        "florida state highway",
+        "fl"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

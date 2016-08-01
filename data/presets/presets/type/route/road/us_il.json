@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:IL"
+    },
+    "name": "Illinois Route",
+    "terms": [
+        "illinois state route",
+        "il"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

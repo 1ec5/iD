@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:AZ"
+    },
+    "name": "Arizona State Route",
+    "terms": [
+        "az"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

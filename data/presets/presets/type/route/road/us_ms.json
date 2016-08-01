@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:MS"
+    },
+    "name": "Mississippi Highway",
+    "terms": [
+        "mississippi state highway",
+        "ms"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

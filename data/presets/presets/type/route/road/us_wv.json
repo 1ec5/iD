@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:WV"
+    },
+    "name": "West Virginia Route",
+    "terms": [
+        "west virginia state route",
+        "wv"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

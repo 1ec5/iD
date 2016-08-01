@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:NY:Reference"
+    },
+    "name": "New York Reference Route",
+    "terms": [
+        "ohio byway"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

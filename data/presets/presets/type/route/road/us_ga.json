@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:GA"
+    },
+    "name": "Georgia State Route",
+    "terms": [
+        "ga"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

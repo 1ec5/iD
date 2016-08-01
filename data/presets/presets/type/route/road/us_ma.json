@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:MA"
+    },
+    "name": "Massachusetts Route",
+    "terms": [
+        "ma"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:TX:Spur"
+    },
+    "name": "Texas State Highway Spur",
+    "terms": [
+        "texas spur"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

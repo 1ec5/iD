@@ -1,0 +1,14 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:KY:Parkway"
+    },
+    "name": "Kentucky Parkway",
+    "terms": [],
+    "icon": "route-road",
+    "fields": []
+}

@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:TX:Loop"
+    },
+    "name": "Texas State Highway Loop",
+    "terms": [
+        "texas loop"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

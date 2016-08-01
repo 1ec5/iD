@@ -1,0 +1,18 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:WY"
+    },
+    "name": "Wyoming Highway",
+    "terms": [
+        "wyoming state highway",
+        "wyoming state route",
+        "wyo"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

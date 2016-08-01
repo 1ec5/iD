@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:TX:RM"
+    },
+    "name": "Texas Ranch to Market Road",
+    "terms": [
+        "texas ranch-to-market road",
+        "rm"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

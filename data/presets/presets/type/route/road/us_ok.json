@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:OK"
+    },
+    "name": "Oklahoma State Highway",
+    "terms": [
+        "ok"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

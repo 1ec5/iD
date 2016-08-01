@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:ME"
+    },
+    "name": "Maine State Route",
+    "terms": [
+        "me"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

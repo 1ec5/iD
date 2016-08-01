@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:NM"
+    },
+    "name": "New Mexico State Road",
+    "terms": [
+        "nm"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

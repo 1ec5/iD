@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:MI"
+    },
+    "name": "Michigan State Trunkline Highway",
+    "terms": [
+        "mi"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

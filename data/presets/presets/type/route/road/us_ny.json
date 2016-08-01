@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:NY"
+    },
+    "name": "New York State Route",
+    "terms": [
+        "ny route",
+        "ny"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

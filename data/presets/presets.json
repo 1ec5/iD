@@ -10860,6 +10860,1309 @@
             "network"
         ]
     },
+    "type/route/road/us_aar": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:AAR"
+        },
+        "name": "All-American Road",
+        "terms": [
+            "aar"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ab_nsb": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:AB:NSB"
+        },
+        "name": "National Scenic Byway",
+        "terms": [
+            "nsb"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_adhs": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:ADHS"
+        },
+        "name": "Appalachian Development Highway Corridor",
+        "terms": [
+            "adhs"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ak": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:AK"
+        },
+        "name": "Alaska Route",
+        "terms": [
+            "ak"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_al": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:AL"
+        },
+        "name": "Alabama State Route",
+        "terms": [
+            "al"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ar": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:AR"
+        },
+        "name": "Arkansas State Highway",
+        "terms": [
+            "ar",
+            "ark"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_az": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:AZ"
+        },
+        "name": "Arizona State Route",
+        "terms": [
+            "az"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ca": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:CA"
+        },
+        "name": "California State Route",
+        "terms": [
+            "california state highway route",
+            "ca"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_co": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:CO"
+        },
+        "name": "Colorado State Highway",
+        "terms": [
+            "co"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ct": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:CT"
+        },
+        "name": "Connecticut Route",
+        "terms": [
+            "connecticut state highway",
+            "ct"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_dc": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:DC"
+        },
+        "name": "District of Columbia Route",
+        "terms": [
+            "dc"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_de": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:DE"
+        },
+        "name": "Delaware Route",
+        "terms": [
+            "delaware state route",
+            "de"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_fh": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:FH"
+        },
+        "name": "United States National Forest Highway",
+        "terms": [
+            "united states national forest route",
+            "united states federal forest highway",
+            "ffh"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_fl_toll": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:FL:Toll"
+        },
+        "name": "Florida Toll Road",
+        "terms": [],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_fl": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:FL"
+        },
+        "name": "Florida State Road",
+        "terms": [
+            "florida state highway",
+            "fl"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ga": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:GA"
+        },
+        "name": "Georgia State Route",
+        "terms": [
+            "ga"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_hi": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:HI"
+        },
+        "name": "Hawaii Route",
+        "terms": [
+            "hawaiʻi state route",
+            "hawaii state route",
+            "hi"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_i_business_loop": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:I:Business:Loop"
+        },
+        "name": "Interstate Business Loop",
+        "terms": [
+            "bl"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_i_business_spur": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:I:Business:Spur"
+        },
+        "name": "Interstate Business Spur",
+        "terms": [
+            "business spur interstate",
+            "bs"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_i": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:I"
+        },
+        "name": "Interstate Highway",
+        "terms": [
+            "interstate route",
+            "interstate freeway",
+            "i",
+            "ih",
+            "ir"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ia": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:IA"
+        },
+        "name": "Iowa Highway",
+        "terms": [
+            "iowa state highway",
+            "ia"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_id": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:ID"
+        },
+        "name": "Idaho State Highway",
+        "terms": [
+            "idaho route",
+            "id"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_il": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:IL"
+        },
+        "name": "Illinois Route",
+        "terms": [
+            "illinois state route",
+            "il"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_in": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:IN"
+        },
+        "name": "Indiana State Road",
+        "terms": [
+            "in"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ks": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:KS"
+        },
+        "name": "Kansas Highway",
+        "terms": [
+            "kansas state highway",
+            "ks"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ky_parkway": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:KY:Parkway"
+        },
+        "name": "Kentucky Parkway",
+        "terms": [],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ky": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:KY"
+        },
+        "name": "Kentucky Route",
+        "terms": [
+            "kentucky state highway",
+            "ky"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_la": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:LA"
+        },
+        "name": "Louisiana Highway",
+        "terms": [
+            "louisiana state highway",
+            "la"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ma": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:MA"
+        },
+        "name": "Massachusetts Route",
+        "terms": [
+            "ma"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_md": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:MD"
+        },
+        "name": "Maryland Route",
+        "terms": [
+            "maryland state highway",
+            "md"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_me": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:ME"
+        },
+        "name": "Maine State Route",
+        "terms": [
+            "me"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_mi": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:MI"
+        },
+        "name": "Michigan State Trunkline Highway",
+        "terms": [
+            "mi"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_mn": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:LA"
+        },
+        "name": "Louisiana Highway",
+        "terms": [
+            "louisiana state highway",
+            "la"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_mo_supplemental": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:MO"
+        },
+        "name": "Missouri Supplemental Route",
+        "terms": [],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_mo": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:MO"
+        },
+        "name": "Missouri Route",
+        "terms": [
+            "missouri state highway",
+            "mo"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ms": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:MS"
+        },
+        "name": "Mississippi Highway",
+        "terms": [
+            "mississippi state highway",
+            "ms"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_mt_secondary": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:MT:secondary"
+        },
+        "name": "Montana Secondary Highway",
+        "terms": [],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_mt": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:MT"
+        },
+        "name": "Montana Highway",
+        "terms": [
+            "mt"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_nc_secondary": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NC:secondary"
+        },
+        "name": "North Carolina Secondary Road",
+        "terms": [],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_nc": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NC"
+        },
+        "name": "North Carolina Highway",
+        "terms": [
+            "north carolina state highway",
+            "nc"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_nd": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:ND"
+        },
+        "name": "North Dakota Highway",
+        "terms": [
+            "nd highway",
+            "nd"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ne_link": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NE:Link"
+        },
+        "name": "Nebraska Connecting Link",
+        "terms": [
+            "nebraska link"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ne_spur": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NE"
+        },
+        "name": "Nebraska Spur",
+        "terms": [],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ne": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:VT"
+        },
+        "name": "Vermont Route",
+        "terms": [
+            "vermont state highway",
+            "vt route",
+            "vt"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_nj": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NJ"
+        },
+        "name": "New Jersey Route",
+        "terms": [
+            "new jersey state highway route",
+            "nj"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_nm": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NM"
+        },
+        "name": "New Mexico State Road",
+        "terms": [
+            "nm"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_nv": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NV"
+        },
+        "name": "Nevada State Route",
+        "terms": [
+            "nv"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ny_reference": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NY:Reference"
+        },
+        "name": "New York Reference Route",
+        "terms": [
+            "ohio byway"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ny": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:NY"
+        },
+        "name": "New York State Route",
+        "terms": [
+            "ny route",
+            "ny"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_oh_byway": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:OH:Byway"
+        },
+        "name": "Ohio Scenic Byway",
+        "terms": [
+            "ohio byway"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_oh": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:OH"
+        },
+        "name": "Ohio State Route",
+        "terms": [
+            "ohio state highway",
+            "oh"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ok": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:OK"
+        },
+        "name": "Oklahoma State Highway",
+        "terms": [
+            "ok"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_or": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:OR"
+        },
+        "name": "Oregon Route",
+        "terms": [
+            "or"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_pa_turnpike": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:PR"
+        },
+        "name": "Texas Park Road",
+        "terms": [
+            "pr"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_pa": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:PA"
+        },
+        "name": "Pennsylvania Route",
+        "terms": [
+            "pennsylvania state route",
+            "pennsylvania state highway",
+            "pa"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_pr": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:PR"
+        },
+        "name": "Puerto Rico Highway",
+        "terms": [
+            "pr"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ri": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:RI"
+        },
+        "name": "Rhode Island Route",
+        "terms": [
+            "ri"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_sc": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:SC"
+        },
+        "name": "South Carolina Highway",
+        "terms": [
+            "sc"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_sd": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:SD"
+        },
+        "name": "South Dakota Highway",
+        "terms": [
+            "sd"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tn": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TN"
+        },
+        "name": "Tennessee State Route",
+        "terms": [
+            "tennessee state highway",
+            "tn"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_beltway": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:Beltway"
+        },
+        "name": "Texas State Highway Beltway",
+        "terms": [
+            "bw"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_fm": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:FM"
+        },
+        "name": "Texas Farm to Market Road",
+        "terms": [
+            "texas farm-to-market road",
+            "texas fm road",
+            "fm",
+            "texas urban road",
+            "ur"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_loop": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:Loop"
+        },
+        "name": "Texas State Highway Loop",
+        "terms": [
+            "texas loop"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_nasa": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:NASA"
+        },
+        "name": "Texas NASA Road",
+        "terms": [
+            "nasa"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_pr": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:PR"
+        },
+        "name": "Texas Park Road",
+        "terms": [
+            "pr"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_rec": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:REC"
+        },
+        "name": "Texas Recreational Road",
+        "terms": [
+            "re"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_rm": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:RM"
+        },
+        "name": "Texas Ranch to Market Road",
+        "terms": [
+            "texas ranch-to-market road",
+            "rm"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_spur": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:Spur"
+        },
+        "name": "Texas State Highway Spur",
+        "terms": [
+            "texas spur"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx_toll": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX:Toll"
+        },
+        "name": "Texas Toll Road",
+        "terms": [],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_tx": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:TX"
+        },
+        "name": "Texas State Highway",
+        "terms": [
+            "tx"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_us": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:US"
+        },
+        "name": "U.S. Route",
+        "terms": [
+            "us route",
+            "united states route",
+            "u.s. highway",
+            "us highway",
+            "united states highway",
+            "united states numbered highway",
+            "us"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_ut": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:UT"
+        },
+        "name": "Utah State Route",
+        "terms": [
+            "ut"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_va_secondary": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:VA:secondary"
+        },
+        "name": "Virginia Secondary State Route",
+        "terms": [
+            "va"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_va": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:VA"
+        },
+        "name": "Virginia State Route",
+        "terms": [
+            "virginia state highway",
+            "virginia route",
+            "va"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_vt": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:VT"
+        },
+        "name": "Vermont Route",
+        "terms": [
+            "vermont state highway",
+            "vt route",
+            "vt"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_wa": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:WA"
+        },
+        "name": "Washington State Route",
+        "terms": [
+            "wa"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_wi": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:WI"
+        },
+        "name": "Wisconsin State Trunk Highway",
+        "terms": [
+            "wisconsin highway",
+            "wis"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_wv": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:WV"
+        },
+        "name": "West Virginia Route",
+        "terms": [
+            "west virginia state route",
+            "wv"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
+    "type/route/road/us_wy": {
+        "geometry": [
+            "relation"
+        ],
+        "tags": {
+            "type": "route",
+            "route": "road",
+            "network": "US:WY"
+        },
+        "name": "Wyoming Highway",
+        "terms": [
+            "wyoming state highway",
+            "wyoming state route",
+            "wyo"
+        ],
+        "icon": "route-road",
+        "fields": []
+    },
     "type/route/train": {
         "geometry": [
             "relation"

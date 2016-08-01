@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:AK"
+    },
+    "name": "Alaska Route",
+    "terms": [
+        "ak"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

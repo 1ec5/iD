@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:TX:PR"
+    },
+    "name": "Texas Park Road",
+    "terms": [
+        "pr"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

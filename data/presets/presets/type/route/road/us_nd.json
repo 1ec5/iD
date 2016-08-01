@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:ND"
+    },
+    "name": "North Dakota Highway",
+    "terms": [
+        "nd highway",
+        "nd"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

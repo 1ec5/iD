@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:ADHS"
+    },
+    "name": "Appalachian Development Highway Corridor",
+    "terms": [
+        "adhs"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

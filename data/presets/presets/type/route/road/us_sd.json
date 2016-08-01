@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:SD"
+    },
+    "name": "South Dakota Highway",
+    "terms": [
+        "sd"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

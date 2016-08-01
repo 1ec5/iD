@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:OR"
+    },
+    "name": "Oregon Route",
+    "terms": [
+        "or"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

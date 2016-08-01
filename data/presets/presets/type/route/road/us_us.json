@@ -1,0 +1,22 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:US"
+    },
+    "name": "U.S. Route",
+    "terms": [
+        "us route",
+        "united states route",
+        "u.s. highway",
+        "us highway",
+        "united states highway",
+        "united states numbered highway",
+        "us"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:AB:NSB"
+    },
+    "name": "National Scenic Byway",
+    "terms": [
+        "nsb"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

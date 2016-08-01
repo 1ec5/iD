@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:PR"
+    },
+    "name": "Puerto Rico Highway",
+    "terms": [
+        "pr"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

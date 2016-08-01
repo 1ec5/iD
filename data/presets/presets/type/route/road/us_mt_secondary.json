@@ -1,0 +1,14 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:MT:secondary"
+    },
+    "name": "Montana Secondary Highway",
+    "terms": [],
+    "icon": "route-road",
+    "fields": []
+}

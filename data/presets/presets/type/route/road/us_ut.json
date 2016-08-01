@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:UT"
+    },
+    "name": "Utah State Route",
+    "terms": [
+        "ut"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

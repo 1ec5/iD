@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:I:Business:Loop"
+    },
+    "name": "Interstate Business Loop",
+    "terms": [
+        "bl"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

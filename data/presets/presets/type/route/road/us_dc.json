@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:DC"
+    },
+    "name": "District of Columbia Route",
+    "terms": [
+        "dc"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

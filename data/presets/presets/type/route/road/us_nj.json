@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:NJ"
+    },
+    "name": "New Jersey Route",
+    "terms": [
+        "new jersey state highway route",
+        "nj"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

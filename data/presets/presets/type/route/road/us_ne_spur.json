@@ -1,0 +1,14 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:NE"
+    },
+    "name": "Nebraska Spur",
+    "terms": [],
+    "icon": "route-road",
+    "fields": []
+}

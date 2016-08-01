@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:CT"
+    },
+    "name": "Connecticut Route",
+    "terms": [
+        "connecticut state highway",
+        "ct"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

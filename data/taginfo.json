@@ -2495,6 +2495,322 @@
             "value": "road"
         },
         {
+            "key": "network",
+            "value": "US:AAR"
+        },
+        {
+            "key": "network",
+            "value": "US:AB:NSB"
+        },
+        {
+            "key": "network",
+            "value": "US:ADHS"
+        },
+        {
+            "key": "network",
+            "value": "US:AK"
+        },
+        {
+            "key": "network",
+            "value": "US:AL"
+        },
+        {
+            "key": "network",
+            "value": "US:AR"
+        },
+        {
+            "key": "network",
+            "value": "US:AZ"
+        },
+        {
+            "key": "network",
+            "value": "US:CA"
+        },
+        {
+            "key": "network",
+            "value": "US:CO"
+        },
+        {
+            "key": "network",
+            "value": "US:CT"
+        },
+        {
+            "key": "network",
+            "value": "US:DC"
+        },
+        {
+            "key": "network",
+            "value": "US:DE"
+        },
+        {
+            "key": "network",
+            "value": "US:FH"
+        },
+        {
+            "key": "network",
+            "value": "US:FL:Toll"
+        },
+        {
+            "key": "network",
+            "value": "US:FL"
+        },
+        {
+            "key": "network",
+            "value": "US:GA"
+        },
+        {
+            "key": "network",
+            "value": "US:HI"
+        },
+        {
+            "key": "network",
+            "value": "US:I:Business:Loop"
+        },
+        {
+            "key": "network",
+            "value": "US:I:Business:Spur"
+        },
+        {
+            "key": "network",
+            "value": "US:I"
+        },
+        {
+            "key": "network",
+            "value": "US:IA"
+        },
+        {
+            "key": "network",
+            "value": "US:ID"
+        },
+        {
+            "key": "network",
+            "value": "US:IL"
+        },
+        {
+            "key": "network",
+            "value": "US:IN"
+        },
+        {
+            "key": "network",
+            "value": "US:KS"
+        },
+        {
+            "key": "network",
+            "value": "US:KY:Parkway"
+        },
+        {
+            "key": "network",
+            "value": "US:KY"
+        },
+        {
+            "key": "network",
+            "value": "US:LA"
+        },
+        {
+            "key": "network",
+            "value": "US:MA"
+        },
+        {
+            "key": "network",
+            "value": "US:MD"
+        },
+        {
+            "key": "network",
+            "value": "US:ME"
+        },
+        {
+            "key": "network",
+            "value": "US:MI"
+        },
+        {
+            "key": "network",
+            "value": "US:LA"
+        },
+        {
+            "key": "network",
+            "value": "US:MO"
+        },
+        {
+            "key": "network",
+            "value": "US:MO"
+        },
+        {
+            "key": "network",
+            "value": "US:MS"
+        },
+        {
+            "key": "network",
+            "value": "US:MT:secondary"
+        },
+        {
+            "key": "network",
+            "value": "US:MT"
+        },
+        {
+            "key": "network",
+            "value": "US:NC:secondary"
+        },
+        {
+            "key": "network",
+            "value": "US:NC"
+        },
+        {
+            "key": "network",
+            "value": "US:ND"
+        },
+        {
+            "key": "network",
+            "value": "US:NE:Link"
+        },
+        {
+            "key": "network",
+            "value": "US:NE"
+        },
+        {
+            "key": "network",
+            "value": "US:VT"
+        },
+        {
+            "key": "network",
+            "value": "US:NJ"
+        },
+        {
+            "key": "network",
+            "value": "US:NM"
+        },
+        {
+            "key": "network",
+            "value": "US:NV"
+        },
+        {
+            "key": "network",
+            "value": "US:NY:Reference"
+        },
+        {
+            "key": "network",
+            "value": "US:NY"
+        },
+        {
+            "key": "network",
+            "value": "US:OH:Byway"
+        },
+        {
+            "key": "network",
+            "value": "US:OH"
+        },
+        {
+            "key": "network",
+            "value": "US:OK"
+        },
+        {
+            "key": "network",
+            "value": "US:OR"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:PR"
+        },
+        {
+            "key": "network",
+            "value": "US:PA"
+        },
+        {
+            "key": "network",
+            "value": "US:PR"
+        },
+        {
+            "key": "network",
+            "value": "US:RI"
+        },
+        {
+            "key": "network",
+            "value": "US:SC"
+        },
+        {
+            "key": "network",
+            "value": "US:SD"
+        },
+        {
+            "key": "network",
+            "value": "US:TN"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:Beltway"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:FM"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:Loop"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:NASA"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:PR"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:REC"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:RM"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:Spur"
+        },
+        {
+            "key": "network",
+            "value": "US:TX:Toll"
+        },
+        {
+            "key": "network",
+            "value": "US:TX"
+        },
+        {
+            "key": "network",
+            "value": "US:US"
+        },
+        {
+            "key": "network",
+            "value": "US:UT"
+        },
+        {
+            "key": "network",
+            "value": "US:VA:secondary"
+        },
+        {
+            "key": "network",
+            "value": "US:VA"
+        },
+        {
+            "key": "network",
+            "value": "US:VT"
+        },
+        {
+            "key": "network",
+            "value": "US:WA"
+        },
+        {
+            "key": "network",
+            "value": "US:WI"
+        },
+        {
+            "key": "network",
+            "value": "US:WV"
+        },
+        {
+            "key": "network",
+            "value": "US:WY"
+        },
+        {
             "key": "route",
             "value": "train"
         },

@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:NE:Link"
+    },
+    "name": "Nebraska Connecting Link",
+    "terms": [
+        "nebraska link"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

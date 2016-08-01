@@ -1,0 +1,14 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:FL:Toll"
+    },
+    "name": "Florida Toll Road",
+    "terms": [],
+    "icon": "route-road",
+    "fields": []
+}

@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:WA"
+    },
+    "name": "Washington State Route",
+    "terms": [
+        "wa"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

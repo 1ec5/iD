@@ -1,0 +1,14 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:MO"
+    },
+    "name": "Missouri Supplemental Route",
+    "terms": [],
+    "icon": "route-road",
+    "fields": []
+}

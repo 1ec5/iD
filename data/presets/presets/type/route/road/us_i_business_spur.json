@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:I:Business:Spur"
+    },
+    "name": "Interstate Business Spur",
+    "terms": [
+        "business spur interstate",
+        "bs"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

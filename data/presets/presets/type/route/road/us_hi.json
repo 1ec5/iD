@@ -1,0 +1,18 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:HI"
+    },
+    "name": "Hawaii Route",
+    "terms": [
+        "hawaiʻi state route",
+        "hawaii state route",
+        "hi"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

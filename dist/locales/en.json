@@ -4104,6 +4104,322 @@
                 "name": "Road Route",
                 "terms": ""
             },
+            "type/route/road/us_aar": {
+                "name": "All-American Road",
+                "terms": "aar"
+            },
+            "type/route/road/us_ab_nsb": {
+                "name": "National Scenic Byway",
+                "terms": "nsb"
+            },
+            "type/route/road/us_adhs": {
+                "name": "Appalachian Development Highway Corridor",
+                "terms": "adhs"
+            },
+            "type/route/road/us_ak": {
+                "name": "Alaska Route",
+                "terms": "ak"
+            },
+            "type/route/road/us_al": {
+                "name": "Alabama State Route",
+                "terms": "al"
+            },
+            "type/route/road/us_ar": {
+                "name": "Arkansas State Highway",
+                "terms": "ar,ark"
+            },
+            "type/route/road/us_az": {
+                "name": "Arizona State Route",
+                "terms": "az"
+            },
+            "type/route/road/us_ca": {
+                "name": "California State Route",
+                "terms": "california state highway route,ca"
+            },
+            "type/route/road/us_co": {
+                "name": "Colorado State Highway",
+                "terms": "co"
+            },
+            "type/route/road/us_ct": {
+                "name": "Connecticut Route",
+                "terms": "connecticut state highway,ct"
+            },
+            "type/route/road/us_dc": {
+                "name": "District of Columbia Route",
+                "terms": "dc"
+            },
+            "type/route/road/us_de": {
+                "name": "Delaware Route",
+                "terms": "delaware state route,de"
+            },
+            "type/route/road/us_fh": {
+                "name": "United States National Forest Highway",
+                "terms": "united states national forest route,united states federal forest highway,ffh"
+            },
+            "type/route/road/us_fl_toll": {
+                "name": "Florida Toll Road",
+                "terms": ""
+            },
+            "type/route/road/us_fl": {
+                "name": "Florida State Road",
+                "terms": "florida state highway,fl"
+            },
+            "type/route/road/us_ga": {
+                "name": "Georgia State Route",
+                "terms": "ga"
+            },
+            "type/route/road/us_hi": {
+                "name": "Hawaii Route",
+                "terms": "hawaiʻi state route,hawaii state route,hi"
+            },
+            "type/route/road/us_i_business_loop": {
+                "name": "Interstate Business Loop",
+                "terms": "bl"
+            },
+            "type/route/road/us_i_business_spur": {
+                "name": "Interstate Business Spur",
+                "terms": "business spur interstate,bs"
+            },
+            "type/route/road/us_i": {
+                "name": "Interstate Highway",
+                "terms": "interstate route,interstate freeway,i,ih,ir"
+            },
+            "type/route/road/us_ia": {
+                "name": "Iowa Highway",
+                "terms": "iowa state highway,ia"
+            },
+            "type/route/road/us_id": {
+                "name": "Idaho State Highway",
+                "terms": "idaho route,id"
+            },
+            "type/route/road/us_il": {
+                "name": "Illinois Route",
+                "terms": "illinois state route,il"
+            },
+            "type/route/road/us_in": {
+                "name": "Indiana State Road",
+                "terms": "in"
+            },
+            "type/route/road/us_ks": {
+                "name": "Kansas Highway",
+                "terms": "kansas state highway,ks"
+            },
+            "type/route/road/us_ky_parkway": {
+                "name": "Kentucky Parkway",
+                "terms": ""
+            },
+            "type/route/road/us_ky": {
+                "name": "Kentucky Route",
+                "terms": "kentucky state highway,ky"
+            },
+            "type/route/road/us_la": {
+                "name": "Louisiana Highway",
+                "terms": "louisiana state highway,la"
+            },
+            "type/route/road/us_ma": {
+                "name": "Massachusetts Route",
+                "terms": "ma"
+            },
+            "type/route/road/us_md": {
+                "name": "Maryland Route",
+                "terms": "maryland state highway,md"
+            },
+            "type/route/road/us_me": {
+                "name": "Maine State Route",
+                "terms": "me"
+            },
+            "type/route/road/us_mi": {
+                "name": "Michigan State Trunkline Highway",
+                "terms": "mi"
+            },
+            "type/route/road/us_mn": {
+                "name": "Louisiana Highway",
+                "terms": "louisiana state highway,la"
+            },
+            "type/route/road/us_mo_supplemental": {
+                "name": "Missouri Supplemental Route",
+                "terms": ""
+            },
+            "type/route/road/us_mo": {
+                "name": "Missouri Route",
+                "terms": "missouri state highway,mo"
+            },
+            "type/route/road/us_ms": {
+                "name": "Mississippi Highway",
+                "terms": "mississippi state highway,ms"
+            },
+            "type/route/road/us_mt_secondary": {
+                "name": "Montana Secondary Highway",
+                "terms": ""
+            },
+            "type/route/road/us_mt": {
+                "name": "Montana Highway",
+                "terms": "mt"
+            },
+            "type/route/road/us_nc_secondary": {
+                "name": "North Carolina Secondary Road",
+                "terms": ""
+            },
+            "type/route/road/us_nc": {
+                "name": "North Carolina Highway",
+                "terms": "north carolina state highway,nc"
+            },
+            "type/route/road/us_nd": {
+                "name": "North Dakota Highway",
+                "terms": "nd highway,nd"
+            },
+            "type/route/road/us_ne_link": {
+                "name": "Nebraska Connecting Link",
+                "terms": "nebraska link"
+            },
+            "type/route/road/us_ne_spur": {
+                "name": "Nebraska Spur",
+                "terms": ""
+            },
+            "type/route/road/us_ne": {
+                "name": "Vermont Route",
+                "terms": "vermont state highway,vt route,vt"
+            },
+            "type/route/road/us_nj": {
+                "name": "New Jersey Route",
+                "terms": "new jersey state highway route,nj"
+            },
+            "type/route/road/us_nm": {
+                "name": "New Mexico State Road",
+                "terms": "nm"
+            },
+            "type/route/road/us_nv": {
+                "name": "Nevada State Route",
+                "terms": "nv"
+            },
+            "type/route/road/us_ny_reference": {
+                "name": "New York Reference Route",
+                "terms": "ohio byway"
+            },
+            "type/route/road/us_ny": {
+                "name": "New York State Route",
+                "terms": "ny route,ny"
+            },
+            "type/route/road/us_oh_byway": {
+                "name": "Ohio Scenic Byway",
+                "terms": "ohio byway"
+            },
+            "type/route/road/us_oh": {
+                "name": "Ohio State Route",
+                "terms": "ohio state highway,oh"
+            },
+            "type/route/road/us_ok": {
+                "name": "Oklahoma State Highway",
+                "terms": "ok"
+            },
+            "type/route/road/us_or": {
+                "name": "Oregon Route",
+                "terms": "or"
+            },
+            "type/route/road/us_pa_turnpike": {
+                "name": "Texas Park Road",
+                "terms": "pr"
+            },
+            "type/route/road/us_pa": {
+                "name": "Pennsylvania Route",
+                "terms": "pennsylvania state route,pennsylvania state highway,pa"
+            },
+            "type/route/road/us_pr": {
+                "name": "Puerto Rico Highway",
+                "terms": "pr"
+            },
+            "type/route/road/us_ri": {
+                "name": "Rhode Island Route",
+                "terms": "ri"
+            },
+            "type/route/road/us_sc": {
+                "name": "South Carolina Highway",
+                "terms": "sc"
+            },
+            "type/route/road/us_sd": {
+                "name": "South Dakota Highway",
+                "terms": "sd"
+            },
+            "type/route/road/us_tn": {
+                "name": "Tennessee State Route",
+                "terms": "tennessee state highway,tn"
+            },
+            "type/route/road/us_tx_beltway": {
+                "name": "Texas State Highway Beltway",
+                "terms": "bw"
+            },
+            "type/route/road/us_tx_fm": {
+                "name": "Texas Farm to Market Road",
+                "terms": "texas farm-to-market road,texas fm road,fm,texas urban road,ur"
+            },
+            "type/route/road/us_tx_loop": {
+                "name": "Texas State Highway Loop",
+                "terms": "texas loop"
+            },
+            "type/route/road/us_tx_nasa": {
+                "name": "Texas NASA Road",
+                "terms": "nasa"
+            },
+            "type/route/road/us_tx_pr": {
+                "name": "Texas Park Road",
+                "terms": "pr"
+            },
+            "type/route/road/us_tx_rec": {
+                "name": "Texas Recreational Road",
+                "terms": "re"
+            },
+            "type/route/road/us_tx_rm": {
+                "name": "Texas Ranch to Market Road",
+                "terms": "texas ranch-to-market road,rm"
+            },
+            "type/route/road/us_tx_spur": {
+                "name": "Texas State Highway Spur",
+                "terms": "texas spur"
+            },
+            "type/route/road/us_tx_toll": {
+                "name": "Texas Toll Road",
+                "terms": ""
+            },
+            "type/route/road/us_tx": {
+                "name": "Texas State Highway",
+                "terms": "tx"
+            },
+            "type/route/road/us_us": {
+                "name": "U.S. Route",
+                "terms": "us route,united states route,u.s. highway,us highway,united states highway,united states numbered highway,us"
+            },
+            "type/route/road/us_ut": {
+                "name": "Utah State Route",
+                "terms": "ut"
+            },
+            "type/route/road/us_va_secondary": {
+                "name": "Virginia Secondary State Route",
+                "terms": "va"
+            },
+            "type/route/road/us_va": {
+                "name": "Virginia State Route",
+                "terms": "virginia state highway,virginia route,va"
+            },
+            "type/route/road/us_vt": {
+                "name": "Vermont Route",
+                "terms": "vermont state highway,vt route,vt"
+            },
+            "type/route/road/us_wa": {
+                "name": "Washington State Route",
+                "terms": "wa"
+            },
+            "type/route/road/us_wi": {
+                "name": "Wisconsin State Trunk Highway",
+                "terms": "wisconsin highway,wis"
+            },
+            "type/route/road/us_wv": {
+                "name": "West Virginia Route",
+                "terms": "west virginia state route,wv"
+            },
+            "type/route/road/us_wy": {
+                "name": "Wyoming Highway",
+                "terms": "wyoming state highway,wyoming state route,wyo"
+            },
             "type/route/train": {
                 "name": "Train Route",
                 "terms": ""

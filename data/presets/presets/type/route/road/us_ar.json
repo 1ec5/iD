@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:AR"
+    },
+    "name": "Arkansas State Highway",
+    "terms": [
+        "ar",
+        "ark"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

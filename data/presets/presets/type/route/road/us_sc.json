@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:SC"
+    },
+    "name": "South Carolina Highway",
+    "terms": [
+        "sc"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

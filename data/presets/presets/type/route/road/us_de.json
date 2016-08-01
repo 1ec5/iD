@@ -1,0 +1,17 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:DE"
+    },
+    "name": "Delaware Route",
+    "terms": [
+        "delaware state route",
+        "de"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

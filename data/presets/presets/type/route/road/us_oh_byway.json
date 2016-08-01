@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:OH:Byway"
+    },
+    "name": "Ohio Scenic Byway",
+    "terms": [
+        "ohio byway"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

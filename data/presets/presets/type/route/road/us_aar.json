@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:AAR"
+    },
+    "name": "All-American Road",
+    "terms": [
+        "aar"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

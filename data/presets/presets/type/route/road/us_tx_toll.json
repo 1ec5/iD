@@ -1,0 +1,14 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:TX:Toll"
+    },
+    "name": "Texas Toll Road",
+    "terms": [],
+    "icon": "route-road",
+    "fields": []
+}

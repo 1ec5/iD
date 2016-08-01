@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:TX:NASA"
+    },
+    "name": "Texas NASA Road",
+    "terms": [
+        "nasa"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

@@ -1,0 +1,14 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:NC:secondary"
+    },
+    "name": "North Carolina Secondary Road",
+    "terms": [],
+    "icon": "route-road",
+    "fields": []
+}

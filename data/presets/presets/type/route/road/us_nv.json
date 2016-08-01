@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:NV"
+    },
+    "name": "Nevada State Route",
+    "terms": [
+        "nv"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

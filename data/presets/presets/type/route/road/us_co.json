@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:CO"
+    },
+    "name": "Colorado State Highway",
+    "terms": [
+        "co"
+    ],
+    "icon": "route-road",
+    "fields": []
+}

@@ -3894,6 +3894,394 @@ en:
         # 'type=route, route=road'
         name: Road Route
         terms: '<translate with synonyms or related terms for ''Road Route'', separated by commas>'
+      type/route/road/us_aar:
+        # 'type=route, route=road, network=US:AAR'
+        name: All-American Road
+        # 'terms: aar'
+        terms: '<translate with synonyms or related terms for ''All-American Road'', separated by commas>'
+      type/route/road/us_ab_nsb:
+        # 'type=route, route=road, network=US:AB:NSB'
+        name: National Scenic Byway
+        # 'terms: nsb'
+        terms: '<translate with synonyms or related terms for ''National Scenic Byway'', separated by commas>'
+      type/route/road/us_adhs:
+        # 'type=route, route=road, network=US:ADHS'
+        name: Appalachian Development Highway Corridor
+        # 'terms: adhs'
+        terms: '<translate with synonyms or related terms for ''Appalachian Development Highway Corridor'', separated by commas>'
+      type/route/road/us_ak:
+        # 'type=route, route=road, network=US:AK'
+        name: Alaska Route
+        # 'terms: ak'
+        terms: '<translate with synonyms or related terms for ''Alaska Route'', separated by commas>'
+      type/route/road/us_al:
+        # 'type=route, route=road, network=US:AL'
+        name: Alabama State Route
+        # 'terms: al'
+        terms: '<translate with synonyms or related terms for ''Alabama State Route'', separated by commas>'
+      type/route/road/us_ar:
+        # 'type=route, route=road, network=US:AR'
+        name: Arkansas State Highway
+        # 'terms: ar,ark'
+        terms: '<translate with synonyms or related terms for ''Arkansas State Highway'', separated by commas>'
+      type/route/road/us_az:
+        # 'type=route, route=road, network=US:AZ'
+        name: Arizona State Route
+        # 'terms: az'
+        terms: '<translate with synonyms or related terms for ''Arizona State Route'', separated by commas>'
+      type/route/road/us_ca:
+        # 'type=route, route=road, network=US:CA'
+        name: California State Route
+        # 'terms: california state highway route,ca'
+        terms: '<translate with synonyms or related terms for ''California State Route'', separated by commas>'
+      type/route/road/us_co:
+        # 'type=route, route=road, network=US:CO'
+        name: Colorado State Highway
+        # 'terms: co'
+        terms: '<translate with synonyms or related terms for ''Colorado State Highway'', separated by commas>'
+      type/route/road/us_ct:
+        # 'type=route, route=road, network=US:CT'
+        name: Connecticut Route
+        # 'terms: connecticut state highway,ct'
+        terms: '<translate with synonyms or related terms for ''Connecticut Route'', separated by commas>'
+      type/route/road/us_dc:
+        # 'type=route, route=road, network=US:DC'
+        name: District of Columbia Route
+        # 'terms: dc'
+        terms: '<translate with synonyms or related terms for ''District of Columbia Route'', separated by commas>'
+      type/route/road/us_de:
+        # 'type=route, route=road, network=US:DE'
+        name: Delaware Route
+        # 'terms: delaware state route,de'
+        terms: '<translate with synonyms or related terms for ''Delaware Route'', separated by commas>'
+      type/route/road/us_fh:
+        # 'type=route, route=road, network=US:FH'
+        name: United States National Forest Highway
+        # 'terms: united states national forest route,united states federal forest highway,ffh'
+        terms: '<translate with synonyms or related terms for ''United States National Forest Highway'', separated by commas>'
+      type/route/road/us_fl:
+        # 'type=route, route=road, network=US:FL'
+        name: Florida State Road
+        # 'terms: florida state highway,fl'
+        terms: '<translate with synonyms or related terms for ''Florida State Road'', separated by commas>'
+      type/route/road/us_fl_toll:
+        # 'type=route, route=road, network=US:FL:Toll'
+        name: Florida Toll Road
+        terms: '<translate with synonyms or related terms for ''Florida Toll Road'', separated by commas>'
+      type/route/road/us_ga:
+        # 'type=route, route=road, network=US:GA'
+        name: Georgia State Route
+        # 'terms: ga'
+        terms: '<translate with synonyms or related terms for ''Georgia State Route'', separated by commas>'
+      type/route/road/us_hi:
+        # 'type=route, route=road, network=US:HI'
+        name: Hawaii Route
+        # 'terms: hawaiʻi state route,hawaii state route,hi'
+        terms: '<translate with synonyms or related terms for ''Hawaii Route'', separated by commas>'
+      type/route/road/us_i:
+        # 'type=route, route=road, network=US:I'
+        name: Interstate Highway
+        # 'terms: interstate route,interstate freeway,i,ih,ir'
+        terms: '<translate with synonyms or related terms for ''Interstate Highway'', separated by commas>'
+      type/route/road/us_i_business_loop:
+        # 'type=route, route=road, network=US:I:Business:Loop'
+        name: Interstate Business Loop
+        # 'terms: bl'
+        terms: '<translate with synonyms or related terms for ''Interstate Business Loop'', separated by commas>'
+      type/route/road/us_i_business_spur:
+        # 'type=route, route=road, network=US:I:Business:Spur'
+        name: Interstate Business Spur
+        # 'terms: business spur interstate,bs'
+        terms: '<translate with synonyms or related terms for ''Interstate Business Spur'', separated by commas>'
+      type/route/road/us_ia:
+        # 'type=route, route=road, network=US:IA'
+        name: Iowa Highway
+        # 'terms: iowa state highway,ia'
+        terms: '<translate with synonyms or related terms for ''Iowa Highway'', separated by commas>'
+      type/route/road/us_id:
+        # 'type=route, route=road, network=US:ID'
+        name: Idaho State Highway
+        # 'terms: idaho route,id'
+        terms: '<translate with synonyms or related terms for ''Idaho State Highway'', separated by commas>'
+      type/route/road/us_il:
+        # 'type=route, route=road, network=US:IL'
+        name: Illinois Route
+        # 'terms: illinois state route,il'
+        terms: '<translate with synonyms or related terms for ''Illinois Route'', separated by commas>'
+      type/route/road/us_in:
+        # 'type=route, route=road, network=US:IN'
+        name: Indiana State Road
+        # 'terms: in'
+        terms: '<translate with synonyms or related terms for ''Indiana State Road'', separated by commas>'
+      type/route/road/us_ks:
+        # 'type=route, route=road, network=US:KS'
+        name: Kansas Highway
+        # 'terms: kansas state highway,ks'
+        terms: '<translate with synonyms or related terms for ''Kansas Highway'', separated by commas>'
+      type/route/road/us_ky:
+        # 'type=route, route=road, network=US:KY'
+        name: Kentucky Route
+        # 'terms: kentucky state highway,ky'
+        terms: '<translate with synonyms or related terms for ''Kentucky Route'', separated by commas>'
+      type/route/road/us_ky_parkway:
+        # 'type=route, route=road, network=US:KY:Parkway'
+        name: Kentucky Parkway
+        terms: '<translate with synonyms or related terms for ''Kentucky Parkway'', separated by commas>'
+      type/route/road/us_la:
+        # 'type=route, route=road, network=US:LA'
+        name: Louisiana Highway
+        # 'terms: louisiana state highway,la'
+        terms: '<translate with synonyms or related terms for ''Louisiana Highway'', separated by commas>'
+      type/route/road/us_ma:
+        # 'type=route, route=road, network=US:MA'
+        name: Massachusetts Route
+        # 'terms: ma'
+        terms: '<translate with synonyms or related terms for ''Massachusetts Route'', separated by commas>'
+      type/route/road/us_md:
+        # 'type=route, route=road, network=US:MD'
+        name: Maryland Route
+        # 'terms: maryland state highway,md'
+        terms: '<translate with synonyms or related terms for ''Maryland Route'', separated by commas>'
+      type/route/road/us_me:
+        # 'type=route, route=road, network=US:ME'
+        name: Maine State Route
+        # 'terms: me'
+        terms: '<translate with synonyms or related terms for ''Maine State Route'', separated by commas>'
+      type/route/road/us_mi:
+        # 'type=route, route=road, network=US:MI'
+        name: Michigan State Trunkline Highway
+        # 'terms: mi'
+        terms: '<translate with synonyms or related terms for ''Michigan State Trunkline Highway'', separated by commas>'
+      type/route/road/us_mn:
+        # 'type=route, route=road, network=US:LA'
+        name: Louisiana Highway
+        # 'terms: louisiana state highway,la'
+        terms: '<translate with synonyms or related terms for ''Louisiana Highway'', separated by commas>'
+      type/route/road/us_mo:
+        # 'type=route, route=road, network=US:MO'
+        name: Missouri Route
+        # 'terms: missouri state highway,mo'
+        terms: '<translate with synonyms or related terms for ''Missouri Route'', separated by commas>'
+      type/route/road/us_mo_supplemental:
+        # 'type=route, route=road, network=US:MO'
+        name: Missouri Supplemental Route
+        terms: '<translate with synonyms or related terms for ''Missouri Supplemental Route'', separated by commas>'
+      type/route/road/us_ms:
+        # 'type=route, route=road, network=US:MS'
+        name: Mississippi Highway
+        # 'terms: mississippi state highway,ms'
+        terms: '<translate with synonyms or related terms for ''Mississippi Highway'', separated by commas>'
+      type/route/road/us_mt:
+        # 'type=route, route=road, network=US:MT'
+        name: Montana Highway
+        # 'terms: mt'
+        terms: '<translate with synonyms or related terms for ''Montana Highway'', separated by commas>'
+      type/route/road/us_mt_secondary:
+        # 'type=route, route=road, network=US:MT:secondary'
+        name: Montana Secondary Highway
+        terms: '<translate with synonyms or related terms for ''Montana Secondary Highway'', separated by commas>'
+      type/route/road/us_nc:
+        # 'type=route, route=road, network=US:NC'
+        name: North Carolina Highway
+        # 'terms: north carolina state highway,nc'
+        terms: '<translate with synonyms or related terms for ''North Carolina Highway'', separated by commas>'
+      type/route/road/us_nc_secondary:
+        # 'type=route, route=road, network=US:NC:secondary'
+        name: North Carolina Secondary Road
+        terms: '<translate with synonyms or related terms for ''North Carolina Secondary Road'', separated by commas>'
+      type/route/road/us_nd:
+        # 'type=route, route=road, network=US:ND'
+        name: North Dakota Highway
+        # 'terms: nd highway,nd'
+        terms: '<translate with synonyms or related terms for ''North Dakota Highway'', separated by commas>'
+      type/route/road/us_ne:
+        # 'type=route, route=road, network=US:VT'
+        name: Vermont Route
+        # 'terms: vermont state highway,vt route,vt'
+        terms: '<translate with synonyms or related terms for ''Vermont Route'', separated by commas>'
+      type/route/road/us_ne_link:
+        # 'type=route, route=road, network=US:NE:Link'
+        name: Nebraska Connecting Link
+        # 'terms: nebraska link'
+        terms: '<translate with synonyms or related terms for ''Nebraska Connecting Link'', separated by commas>'
+      type/route/road/us_ne_spur:
+        # 'type=route, route=road, network=US:NE'
+        name: Nebraska Spur
+        terms: '<translate with synonyms or related terms for ''Nebraska Spur'', separated by commas>'
+      type/route/road/us_nj:
+        # 'type=route, route=road, network=US:NJ'
+        name: New Jersey Route
+        # 'terms: new jersey state highway route,nj'
+        terms: '<translate with synonyms or related terms for ''New Jersey Route'', separated by commas>'
+      type/route/road/us_nm:
+        # 'type=route, route=road, network=US:NM'
+        name: New Mexico State Road
+        # 'terms: nm'
+        terms: '<translate with synonyms or related terms for ''New Mexico State Road'', separated by commas>'
+      type/route/road/us_nv:
+        # 'type=route, route=road, network=US:NV'
+        name: Nevada State Route
+        # 'terms: nv'
+        terms: '<translate with synonyms or related terms for ''Nevada State Route'', separated by commas>'
+      type/route/road/us_ny:
+        # 'type=route, route=road, network=US:NY'
+        name: New York State Route
+        # 'terms: ny route,ny'
+        terms: '<translate with synonyms or related terms for ''New York State Route'', separated by commas>'
+      type/route/road/us_ny_reference:
+        # 'type=route, route=road, network=US:NY:Reference'
+        name: New York Reference Route
+        # 'terms: ohio byway'
+        terms: '<translate with synonyms or related terms for ''New York Reference Route'', separated by commas>'
+      type/route/road/us_oh:
+        # 'type=route, route=road, network=US:OH'
+        name: Ohio State Route
+        # 'terms: ohio state highway,oh'
+        terms: '<translate with synonyms or related terms for ''Ohio State Route'', separated by commas>'
+      type/route/road/us_oh_byway:
+        # 'type=route, route=road, network=US:OH:Byway'
+        name: Ohio Scenic Byway
+        # 'terms: ohio byway'
+        terms: '<translate with synonyms or related terms for ''Ohio Scenic Byway'', separated by commas>'
+      type/route/road/us_ok:
+        # 'type=route, route=road, network=US:OK'
+        name: Oklahoma State Highway
+        # 'terms: ok'
+        terms: '<translate with synonyms or related terms for ''Oklahoma State Highway'', separated by commas>'
+      type/route/road/us_or:
+        # 'type=route, route=road, network=US:OR'
+        name: Oregon Route
+        # 'terms: or'
+        terms: '<translate with synonyms or related terms for ''Oregon Route'', separated by commas>'
+      type/route/road/us_pa:
+        # 'type=route, route=road, network=US:PA'
+        name: Pennsylvania Route
+        # 'terms: pennsylvania state route,pennsylvania state highway,pa'
+        terms: '<translate with synonyms or related terms for ''Pennsylvania Route'', separated by commas>'
+      type/route/road/us_pa_turnpike:
+        # 'type=route, route=road, network=US:TX:PR'
+        name: Texas Park Road
+        # 'terms: pr'
+        terms: '<translate with synonyms or related terms for ''Texas Park Road'', separated by commas>'
+      type/route/road/us_pr:
+        # 'type=route, route=road, network=US:PR'
+        name: Puerto Rico Highway
+        # 'terms: pr'
+        terms: '<translate with synonyms or related terms for ''Puerto Rico Highway'', separated by commas>'
+      type/route/road/us_ri:
+        # 'type=route, route=road, network=US:RI'
+        name: Rhode Island Route
+        # 'terms: ri'
+        terms: '<translate with synonyms or related terms for ''Rhode Island Route'', separated by commas>'
+      type/route/road/us_sc:
+        # 'type=route, route=road, network=US:SC'
+        name: South Carolina Highway
+        # 'terms: sc'
+        terms: '<translate with synonyms or related terms for ''South Carolina Highway'', separated by commas>'
+      type/route/road/us_sd:
+        # 'type=route, route=road, network=US:SD'
+        name: South Dakota Highway
+        # 'terms: sd'
+        terms: '<translate with synonyms or related terms for ''South Dakota Highway'', separated by commas>'
+      type/route/road/us_tn:
+        # 'type=route, route=road, network=US:TN'
+        name: Tennessee State Route
+        # 'terms: tennessee state highway,tn'
+        terms: '<translate with synonyms or related terms for ''Tennessee State Route'', separated by commas>'
+      type/route/road/us_tx:
+        # 'type=route, route=road, network=US:TX'
+        name: Texas State Highway
+        # 'terms: tx'
+        terms: '<translate with synonyms or related terms for ''Texas State Highway'', separated by commas>'
+      type/route/road/us_tx_beltway:
+        # 'type=route, route=road, network=US:TX:Beltway'
+        name: Texas State Highway Beltway
+        # 'terms: bw'
+        terms: '<translate with synonyms or related terms for ''Texas State Highway Beltway'', separated by commas>'
+      type/route/road/us_tx_fm:
+        # 'type=route, route=road, network=US:TX:FM'
+        name: Texas Farm to Market Road
+        # 'terms: texas farm-to-market road,texas fm road,fm,texas urban road,ur'
+        terms: '<translate with synonyms or related terms for ''Texas Farm to Market Road'', separated by commas>'
+      type/route/road/us_tx_loop:
+        # 'type=route, route=road, network=US:TX:Loop'
+        name: Texas State Highway Loop
+        # 'terms: texas loop'
+        terms: '<translate with synonyms or related terms for ''Texas State Highway Loop'', separated by commas>'
+      type/route/road/us_tx_nasa:
+        # 'type=route, route=road, network=US:TX:NASA'
+        name: Texas NASA Road
+        # 'terms: nasa'
+        terms: '<translate with synonyms or related terms for ''Texas NASA Road'', separated by commas>'
+      type/route/road/us_tx_pr:
+        # 'type=route, route=road, network=US:TX:PR'
+        name: Texas Park Road
+        # 'terms: pr'
+        terms: '<translate with synonyms or related terms for ''Texas Park Road'', separated by commas>'
+      type/route/road/us_tx_rec:
+        # 'type=route, route=road, network=US:TX:REC'
+        name: Texas Recreational Road
+        # 'terms: re'
+        terms: '<translate with synonyms or related terms for ''Texas Recreational Road'', separated by commas>'
+      type/route/road/us_tx_rm:
+        # 'type=route, route=road, network=US:TX:RM'
+        name: Texas Ranch to Market Road
+        # 'terms: texas ranch-to-market road,rm'
+        terms: '<translate with synonyms or related terms for ''Texas Ranch to Market Road'', separated by commas>'
+      type/route/road/us_tx_spur:
+        # 'type=route, route=road, network=US:TX:Spur'
+        name: Texas State Highway Spur
+        # 'terms: texas spur'
+        terms: '<translate with synonyms or related terms for ''Texas State Highway Spur'', separated by commas>'
+      type/route/road/us_tx_toll:
+        # 'type=route, route=road, network=US:TX:Toll'
+        name: Texas Toll Road
+        terms: '<translate with synonyms or related terms for ''Texas Toll Road'', separated by commas>'
+      type/route/road/us_us:
+        # 'type=route, route=road, network=US:US'
+        name: U.S. Route
+        # 'terms: us route,united states route,u.s. highway,us highway,united states highway,united states numbered highway,us'
+        terms: '<translate with synonyms or related terms for ''U.S. Route'', separated by commas>'
+      type/route/road/us_ut:
+        # 'type=route, route=road, network=US:UT'
+        name: Utah State Route
+        # 'terms: ut'
+        terms: '<translate with synonyms or related terms for ''Utah State Route'', separated by commas>'
+      type/route/road/us_va:
+        # 'type=route, route=road, network=US:VA'
+        name: Virginia State Route
+        # 'terms: virginia state highway,virginia route,va'
+        terms: '<translate with synonyms or related terms for ''Virginia State Route'', separated by commas>'
+      type/route/road/us_va_secondary:
+        # 'type=route, route=road, network=US:VA:secondary'
+        name: Virginia Secondary State Route
+        # 'terms: va'
+        terms: '<translate with synonyms or related terms for ''Virginia Secondary State Route'', separated by commas>'
+      type/route/road/us_vt:
+        # 'type=route, route=road, network=US:VT'
+        name: Vermont Route
+        # 'terms: vermont state highway,vt route,vt'
+        terms: '<translate with synonyms or related terms for ''Vermont Route'', separated by commas>'
+      type/route/road/us_wa:
+        # 'type=route, route=road, network=US:WA'
+        name: Washington State Route
+        # 'terms: wa'
+        terms: '<translate with synonyms or related terms for ''Washington State Route'', separated by commas>'
+      type/route/road/us_wi:
+        # 'type=route, route=road, network=US:WI'
+        name: Wisconsin State Trunk Highway
+        # 'terms: wisconsin highway,wis'
+        terms: '<translate with synonyms or related terms for ''Wisconsin State Trunk Highway'', separated by commas>'
+      type/route/road/us_wv:
+        # 'type=route, route=road, network=US:WV'
+        name: West Virginia Route
+        # 'terms: west virginia state route,wv'
+        terms: '<translate with synonyms or related terms for ''West Virginia Route'', separated by commas>'
+      type/route/road/us_wy:
+        # 'type=route, route=road, network=US:WY'
+        name: Wyoming Highway
+        # 'terms: wyoming state highway,wyoming state route,wyo'
+        terms: '<translate with synonyms or related terms for ''Wyoming Highway'', separated by commas>'
       type/route/train:
         # 'type=route, route=train'
         name: Train Route

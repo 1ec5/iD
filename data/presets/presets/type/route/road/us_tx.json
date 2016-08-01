@@ -1,0 +1,16 @@
+{
+    "geometry": [
+        "relation"
+    ],
+    "tags": {
+        "type": "route",
+        "route": "road",
+        "network": "US:TX"
+    },
+    "name": "Texas State Highway",
+    "terms": [
+        "tx"
+    ],
+    "icon": "route-road",
+    "fields": []
+}
