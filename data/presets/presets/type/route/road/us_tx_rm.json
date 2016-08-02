@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TX:RM"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TX:RM"
+    },
     "name": "Texas Ranch to Market Road",
     "terms": [
         "texas ranch-to-market road",

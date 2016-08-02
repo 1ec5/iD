@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:KS"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:KS"
+    },
     "name": "Kansas Highway",
     "terms": [
         "kansas state highway",

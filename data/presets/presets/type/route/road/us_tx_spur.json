@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TX:Spur"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TX:Spur"
+    },
     "name": "Texas State Highway Spur",
     "terms": [
         "texas spur"

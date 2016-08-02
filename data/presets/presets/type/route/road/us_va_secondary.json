@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:VA:secondary"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:VA:secondary"
+    },
     "name": "Virginia Secondary State Route",
     "terms": [
         "va"

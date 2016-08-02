@@ -5,7 +5,11 @@
     "tags": {
         "type": "route",
         "route": "road",
-        "network": "US:NE"
+        "network": "US:NE:Spur"
+    },
+    "reference": {
+        "key": "network",
+        "value": "US:NE:Spur"
     },
     "name": "Nebraska Spur",
     "terms": [],

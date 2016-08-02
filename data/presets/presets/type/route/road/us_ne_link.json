@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:NE:Link"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:NE:Link"
+    },
     "name": "Nebraska Connecting Link",
     "terms": [
         "nebraska link"

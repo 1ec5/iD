@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:ID"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:ID"
+    },
     "name": "Idaho State Highway",
     "terms": [
         "idaho route",

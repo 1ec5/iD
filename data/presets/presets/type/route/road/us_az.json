@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:AZ"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:AZ"
+    },
     "name": "Arizona State Route",
     "terms": [
         "az"

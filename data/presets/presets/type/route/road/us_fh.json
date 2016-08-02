@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:FH"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:FH"
+    },
     "name": "United States National Forest Highway",
     "terms": [
         "united states national forest route",

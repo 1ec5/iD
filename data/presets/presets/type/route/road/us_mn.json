@@ -5,12 +5,16 @@
     "tags": {
         "type": "route",
         "route": "road",
-        "network": "US:LA"
+        "network": "US:MN"
     },
-    "name": "Louisiana Highway",
+    "reference": {
+        "key": "network",
+        "value": "US:MN"
+    },
+    "name": "Minnesota State Highway",
     "terms": [
-        "louisiana state highway",
-        "la"
+        "minnesota trunk highway",
+        "mn"
     ],
     "icon": "route-road",
     "fields": []

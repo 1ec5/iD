@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:WV"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:WV"
+    },
     "name": "West Virginia Route",
     "terms": [
         "west virginia state route",

@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:CA"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:CA"
+    },
     "name": "California State Route",
     "terms": [
         "california state highway route",

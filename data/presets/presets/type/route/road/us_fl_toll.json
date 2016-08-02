@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:FL:Toll"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:FL:Toll"
+    },
     "name": "Florida Toll Road",
     "terms": [],
     "icon": "route-road",

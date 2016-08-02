@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:NY:Reference"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:NY:Reference"
+    },
     "name": "New York Reference Route",
     "terms": [
         "ohio byway"

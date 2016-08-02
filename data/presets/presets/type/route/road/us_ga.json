@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:GA"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:GA"
+    },
     "name": "Georgia State Route",
     "terms": [
         "ga"

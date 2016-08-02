@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:ADHS"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:ADHS"
+    },
     "name": "Appalachian Development Highway Corridor",
     "terms": [
         "adhs"

@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:NC"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:NC"
+    },
     "name": "North Carolina Highway",
     "terms": [
         "north carolina state highway",

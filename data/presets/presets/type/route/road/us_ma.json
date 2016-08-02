@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:MA"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:MA"
+    },
     "name": "Massachusetts Route",
     "terms": [
         "ma"

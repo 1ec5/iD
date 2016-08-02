@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:RI"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:RI"
+    },
     "name": "Rhode Island Route",
     "terms": [
         "ri"

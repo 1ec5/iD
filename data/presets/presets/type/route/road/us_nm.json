@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:NM"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:NM"
+    },
     "name": "New Mexico State Road",
     "terms": [
         "nm"

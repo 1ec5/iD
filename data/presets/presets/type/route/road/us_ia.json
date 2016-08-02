@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:IA"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:IA"
+    },
     "name": "Iowa Highway",
     "terms": [
         "iowa state highway",

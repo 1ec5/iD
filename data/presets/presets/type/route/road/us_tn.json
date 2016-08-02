@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TN"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TN"
+    },
     "name": "Tennessee State Route",
     "terms": [
         "tennessee state highway",

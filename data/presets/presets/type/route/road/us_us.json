@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:US"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:US"
+    },
     "name": "U.S. Route",
     "terms": [
         "us route",

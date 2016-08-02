@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:MO"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:MO"
+    },
     "name": "Missouri Route",
     "terms": [
         "missouri state highway",

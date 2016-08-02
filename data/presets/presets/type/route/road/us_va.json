@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:VA"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:VA"
+    },
     "name": "Virginia State Route",
     "terms": [
         "virginia state highway",

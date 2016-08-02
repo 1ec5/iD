@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:AB:NSB"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:AB:NSB"
+    },
     "name": "National Scenic Byway",
     "terms": [
         "nsb"

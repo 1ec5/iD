@@ -5,7 +5,11 @@
     "tags": {
         "type": "route",
         "route": "road",
-        "network": "US:MO"
+        "network": "US:MO:Supplemental"
+    },
+    "reference": {
+        "key": "network",
+        "value": "US:MO:Supplemental"
     },
     "name": "Missouri Supplemental Route",
     "terms": [],

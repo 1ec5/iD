@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:NC:secondary"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:NC:secondary"
+    },
     "name": "North Carolina Secondary Road",
     "terms": [],
     "icon": "route-road",

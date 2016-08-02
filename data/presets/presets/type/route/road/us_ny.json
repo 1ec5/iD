@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:NY"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:NY"
+    },
     "name": "New York State Route",
     "terms": [
         "ny route",

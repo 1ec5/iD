@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:FL"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:FL"
+    },
     "name": "Florida State Road",
     "terms": [
         "florida state highway",

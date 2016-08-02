@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:OH:Byway"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:OH:Byway"
+    },
     "name": "Ohio Scenic Byway",
     "terms": [
         "ohio byway"

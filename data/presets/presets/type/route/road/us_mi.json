@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:MI"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:MI"
+    },
     "name": "Michigan State Trunkline Highway",
     "terms": [
         "mi"

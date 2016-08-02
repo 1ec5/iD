@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:AR"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:AR"
+    },
     "name": "Arkansas State Highway",
     "terms": [
         "ar",

@@ -4053,17 +4053,17 @@ en:
         # 'terms: mi'
         terms: '<translate with synonyms or related terms for ''Michigan State Trunkline Highway'', separated by commas>'
       type/route/road/us_mn:
-        # 'type=route, route=road, network=US:LA'
-        name: Louisiana Highway
-        # 'terms: louisiana state highway,la'
-        terms: '<translate with synonyms or related terms for ''Louisiana Highway'', separated by commas>'
+        # 'type=route, route=road, network=US:MN'
+        name: Minnesota State Highway
+        # 'terms: minnesota trunk highway,mn'
+        terms: '<translate with synonyms or related terms for ''Minnesota State Highway'', separated by commas>'
       type/route/road/us_mo:
         # 'type=route, route=road, network=US:MO'
         name: Missouri Route
         # 'terms: missouri state highway,mo'
         terms: '<translate with synonyms or related terms for ''Missouri Route'', separated by commas>'
       type/route/road/us_mo_supplemental:
-        # 'type=route, route=road, network=US:MO'
+        # 'type=route, route=road, network=US:MO:Supplemental'
         name: Missouri Supplemental Route
         terms: '<translate with synonyms or related terms for ''Missouri Supplemental Route'', separated by commas>'
       type/route/road/us_ms:
@@ -4095,17 +4095,17 @@ en:
         # 'terms: nd highway,nd'
         terms: '<translate with synonyms or related terms for ''North Dakota Highway'', separated by commas>'
       type/route/road/us_ne:
-        # 'type=route, route=road, network=US:VT'
-        name: Vermont Route
-        # 'terms: vermont state highway,vt route,vt'
-        terms: '<translate with synonyms or related terms for ''Vermont Route'', separated by commas>'
+        # 'type=route, route=road, network=US:NE'
+        name: Nebraska Highway
+        # 'terms: nebraska state highway,ne'
+        terms: '<translate with synonyms or related terms for ''Nebraska Highway'', separated by commas>'
       type/route/road/us_ne_link:
         # 'type=route, route=road, network=US:NE:Link'
         name: Nebraska Connecting Link
         # 'terms: nebraska link'
         terms: '<translate with synonyms or related terms for ''Nebraska Connecting Link'', separated by commas>'
       type/route/road/us_ne_spur:
-        # 'type=route, route=road, network=US:NE'
+        # 'type=route, route=road, network=US:NE:Spur'
         name: Nebraska Spur
         terms: '<translate with synonyms or related terms for ''Nebraska Spur'', separated by commas>'
       type/route/road/us_nj:
@@ -4159,10 +4159,10 @@ en:
         # 'terms: pennsylvania state route,pennsylvania state highway,pa'
         terms: '<translate with synonyms or related terms for ''Pennsylvania Route'', separated by commas>'
       type/route/road/us_pa_turnpike:
-        # 'type=route, route=road, network=US:TX:PR'
-        name: Texas Park Road
+        # 'type=route, route=road, network=US:PA:Turnpike'
+        name: Pennsylvania Turnpike
         # 'terms: pr'
-        terms: '<translate with synonyms or related terms for ''Texas Park Road'', separated by commas>'
+        terms: '<translate with synonyms or related terms for ''Pennsylvania Turnpike'', separated by commas>'
       type/route/road/us_pr:
         # 'type=route, route=road, network=US:PR'
         name: Puerto Rico Highway

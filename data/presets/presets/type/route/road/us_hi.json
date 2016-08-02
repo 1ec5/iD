@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:HI"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:HI"
+    },
     "name": "Hawaii Route",
     "terms": [
         "hawaiʻi state route",

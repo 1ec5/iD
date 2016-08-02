@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:DC"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:DC"
+    },
     "name": "District of Columbia Route",
     "terms": [
         "dc"

@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:ND"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:ND"
+    },
     "name": "North Dakota Highway",
     "terms": [
         "nd highway",

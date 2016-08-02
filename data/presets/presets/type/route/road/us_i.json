@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:I"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:I"
+    },
     "name": "Interstate Highway",
     "terms": [
         "interstate route",

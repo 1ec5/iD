@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:IL"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:IL"
+    },
     "name": "Illinois Route",
     "terms": [
         "illinois state route",

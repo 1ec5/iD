@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:AK"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:AK"
+    },
     "name": "Alaska Route",
     "terms": [
         "ak"

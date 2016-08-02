@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:CO"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:CO"
+    },
     "name": "Colorado State Highway",
     "terms": [
         "co"

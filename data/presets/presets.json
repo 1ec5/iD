@@ -10869,6 +10869,10 @@
             "route": "road",
             "network": "US:AAR"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:AAR"
+        },
         "name": "All-American Road",
         "terms": [
             "aar"
@@ -10884,6 +10888,10 @@
             "type": "route",
             "route": "road",
             "network": "US:AB:NSB"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:AB:NSB"
         },
         "name": "National Scenic Byway",
         "terms": [
@@ -10901,6 +10909,10 @@
             "route": "road",
             "network": "US:ADHS"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:ADHS"
+        },
         "name": "Appalachian Development Highway Corridor",
         "terms": [
             "adhs"
@@ -10916,6 +10928,10 @@
             "type": "route",
             "route": "road",
             "network": "US:AK"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:AK"
         },
         "name": "Alaska Route",
         "terms": [
@@ -10933,6 +10949,10 @@
             "route": "road",
             "network": "US:AL"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:AL"
+        },
         "name": "Alabama State Route",
         "terms": [
             "al"
@@ -10948,6 +10968,10 @@
             "type": "route",
             "route": "road",
             "network": "US:AR"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:AR"
         },
         "name": "Arkansas State Highway",
         "terms": [
@@ -10966,6 +10990,10 @@
             "route": "road",
             "network": "US:AZ"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:AZ"
+        },
         "name": "Arizona State Route",
         "terms": [
             "az"
@@ -10981,6 +11009,10 @@
             "type": "route",
             "route": "road",
             "network": "US:CA"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:CA"
         },
         "name": "California State Route",
         "terms": [
@@ -10999,6 +11031,10 @@
             "route": "road",
             "network": "US:CO"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:CO"
+        },
         "name": "Colorado State Highway",
         "terms": [
             "co"
@@ -11014,6 +11050,10 @@
             "type": "route",
             "route": "road",
             "network": "US:CT"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:CT"
         },
         "name": "Connecticut Route",
         "terms": [
@@ -11032,6 +11072,10 @@
             "route": "road",
             "network": "US:DC"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:DC"
+        },
         "name": "District of Columbia Route",
         "terms": [
             "dc"
@@ -11047,6 +11091,10 @@
             "type": "route",
             "route": "road",
             "network": "US:DE"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:DE"
         },
         "name": "Delaware Route",
         "terms": [
@@ -11064,6 +11112,10 @@
             "type": "route",
             "route": "road",
             "network": "US:FH"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:FH"
         },
         "name": "United States National Forest Highway",
         "terms": [
@@ -11083,6 +11135,10 @@
             "route": "road",
             "network": "US:FL:Toll"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:FL:Toll"
+        },
         "name": "Florida Toll Road",
         "terms": [],
         "icon": "route-road",
@@ -11096,6 +11152,10 @@
             "type": "route",
             "route": "road",
             "network": "US:FL"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:FL"
         },
         "name": "Florida State Road",
         "terms": [
@@ -11114,6 +11174,10 @@
             "route": "road",
             "network": "US:GA"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:GA"
+        },
         "name": "Georgia State Route",
         "terms": [
             "ga"
@@ -11129,6 +11193,10 @@
             "type": "route",
             "route": "road",
             "network": "US:HI"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:HI"
         },
         "name": "Hawaii Route",
         "terms": [
@@ -11148,6 +11216,10 @@
             "route": "road",
             "network": "US:I:Business:Loop"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:I:Business:Loop"
+        },
         "name": "Interstate Business Loop",
         "terms": [
             "bl"
@@ -11163,6 +11235,10 @@
             "type": "route",
             "route": "road",
             "network": "US:I:Business:Spur"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:I:Business:Spur"
         },
         "name": "Interstate Business Spur",
         "terms": [
@@ -11180,6 +11256,10 @@
             "type": "route",
             "route": "road",
             "network": "US:I"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:I"
         },
         "name": "Interstate Highway",
         "terms": [
@@ -11201,6 +11281,10 @@
             "route": "road",
             "network": "US:IA"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:IA"
+        },
         "name": "Iowa Highway",
         "terms": [
             "iowa state highway",
@@ -11217,6 +11301,10 @@
             "type": "route",
             "route": "road",
             "network": "US:ID"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:ID"
         },
         "name": "Idaho State Highway",
         "terms": [
@@ -11235,6 +11323,10 @@
             "route": "road",
             "network": "US:IL"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:IL"
+        },
         "name": "Illinois Route",
         "terms": [
             "illinois state route",
@@ -11252,6 +11344,10 @@
             "route": "road",
             "network": "US:IN"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:IN"
+        },
         "name": "Indiana State Road",
         "terms": [
             "in"
@@ -11267,6 +11363,10 @@
             "type": "route",
             "route": "road",
             "network": "US:KS"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:KS"
         },
         "name": "Kansas Highway",
         "terms": [
@@ -11285,6 +11385,10 @@
             "route": "road",
             "network": "US:KY:Parkway"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:KY:Parkway"
+        },
         "name": "Kentucky Parkway",
         "terms": [],
         "icon": "route-road",
@@ -11298,6 +11402,10 @@
             "type": "route",
             "route": "road",
             "network": "US:KY"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:KY"
         },
         "name": "Kentucky Route",
         "terms": [
@@ -11316,6 +11424,10 @@
             "route": "road",
             "network": "US:LA"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:LA"
+        },
         "name": "Louisiana Highway",
         "terms": [
             "louisiana state highway",
@@ -11333,6 +11445,10 @@
             "route": "road",
             "network": "US:MA"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:MA"
+        },
         "name": "Massachusetts Route",
         "terms": [
             "ma"
@@ -11348,6 +11464,10 @@
             "type": "route",
             "route": "road",
             "network": "US:MD"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:MD"
         },
         "name": "Maryland Route",
         "terms": [
@@ -11366,6 +11486,10 @@
             "route": "road",
             "network": "US:ME"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:ME"
+        },
         "name": "Maine State Route",
         "terms": [
             "me"
@@ -11382,6 +11506,10 @@
             "route": "road",
             "network": "US:MI"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:MI"
+        },
         "name": "Michigan State Trunkline Highway",
         "terms": [
             "mi"
@@ -11396,12 +11524,16 @@
         "tags": {
             "type": "route",
             "route": "road",
-            "network": "US:LA"
+            "network": "US:MN"
         },
-        "name": "Louisiana Highway",
+        "reference": {
+            "key": "network",
+            "value": "US:MN"
+        },
+        "name": "Minnesota State Highway",
         "terms": [
-            "louisiana state highway",
-            "la"
+            "minnesota trunk highway",
+            "mn"
         ],
         "icon": "route-road",
         "fields": []
@@ -11413,7 +11545,11 @@
         "tags": {
             "type": "route",
             "route": "road",
-            "network": "US:MO"
+            "network": "US:MO:Supplemental"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:MO:Supplemental"
         },
         "name": "Missouri Supplemental Route",
         "terms": [],
@@ -11428,6 +11564,10 @@
             "type": "route",
             "route": "road",
             "network": "US:MO"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:MO"
         },
         "name": "Missouri Route",
         "terms": [
@@ -11446,6 +11586,10 @@
             "route": "road",
             "network": "US:MS"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:MS"
+        },
         "name": "Mississippi Highway",
         "terms": [
             "mississippi state highway",
@@ -11463,6 +11607,10 @@
             "route": "road",
             "network": "US:MT:secondary"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:MT:secondary"
+        },
         "name": "Montana Secondary Highway",
         "terms": [],
         "icon": "route-road",
@@ -11476,6 +11624,10 @@
             "type": "route",
             "route": "road",
             "network": "US:MT"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:MT"
         },
         "name": "Montana Highway",
         "terms": [
@@ -11493,6 +11645,10 @@
             "route": "road",
             "network": "US:NC:secondary"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:NC:secondary"
+        },
         "name": "North Carolina Secondary Road",
         "terms": [],
         "icon": "route-road",
@@ -11506,6 +11662,10 @@
             "type": "route",
             "route": "road",
             "network": "US:NC"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:NC"
         },
         "name": "North Carolina Highway",
         "terms": [
@@ -11524,6 +11684,10 @@
             "route": "road",
             "network": "US:ND"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:ND"
+        },
         "name": "North Dakota Highway",
         "terms": [
             "nd highway",
@@ -11541,6 +11705,10 @@
             "route": "road",
             "network": "US:NE:Link"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:NE:Link"
+        },
         "name": "Nebraska Connecting Link",
         "terms": [
             "nebraska link"
@@ -11555,7 +11723,11 @@
         "tags": {
             "type": "route",
             "route": "road",
-            "network": "US:NE"
+            "network": "US:NE:Spur"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:NE:Spur"
         },
         "name": "Nebraska Spur",
         "terms": [],
@@ -11569,13 +11741,16 @@
         "tags": {
             "type": "route",
             "route": "road",
-            "network": "US:VT"
+            "network": "US:NE"
         },
-        "name": "Vermont Route",
+        "reference": {
+            "key": "network",
+            "value": "US:NE"
+        },
+        "name": "Nebraska Highway",
         "terms": [
-            "vermont state highway",
-            "vt route",
-            "vt"
+            "nebraska state highway",
+            "ne"
         ],
         "icon": "route-road",
         "fields": []
@@ -11588,6 +11763,10 @@
             "type": "route",
             "route": "road",
             "network": "US:NJ"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:NJ"
         },
         "name": "New Jersey Route",
         "terms": [
@@ -11606,6 +11785,10 @@
             "route": "road",
             "network": "US:NM"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:NM"
+        },
         "name": "New Mexico State Road",
         "terms": [
             "nm"
@@ -11621,6 +11804,10 @@
             "type": "route",
             "route": "road",
             "network": "US:NV"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:NV"
         },
         "name": "Nevada State Route",
         "terms": [
@@ -11638,6 +11825,10 @@
             "route": "road",
             "network": "US:NY:Reference"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:NY:Reference"
+        },
         "name": "New York Reference Route",
         "terms": [
             "ohio byway"
@@ -11653,6 +11844,10 @@
             "type": "route",
             "route": "road",
             "network": "US:NY"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:NY"
         },
         "name": "New York State Route",
         "terms": [
@@ -11671,6 +11866,10 @@
             "route": "road",
             "network": "US:OH:Byway"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:OH:Byway"
+        },
         "name": "Ohio Scenic Byway",
         "terms": [
             "ohio byway"
@@ -11686,6 +11885,10 @@
             "type": "route",
             "route": "road",
             "network": "US:OH"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:OH"
         },
         "name": "Ohio State Route",
         "terms": [
@@ -11704,6 +11907,10 @@
             "route": "road",
             "network": "US:OK"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:OK"
+        },
         "name": "Oklahoma State Highway",
         "terms": [
             "ok"
@@ -11720,6 +11927,10 @@
             "route": "road",
             "network": "US:OR"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:OR"
+        },
         "name": "Oregon Route",
         "terms": [
             "or"
@@ -11734,9 +11945,13 @@
         "tags": {
             "type": "route",
             "route": "road",
-            "network": "US:TX:PR"
+            "network": "US:PA:Turnpike"
         },
-        "name": "Texas Park Road",
+        "reference": {
+            "key": "network",
+            "value": "US:PA:Turnpike"
+        },
+        "name": "Pennsylvania Turnpike",
         "terms": [
             "pr"
         ],
@@ -11751,6 +11966,10 @@
             "type": "route",
             "route": "road",
             "network": "US:PA"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:PA"
         },
         "name": "Pennsylvania Route",
         "terms": [
@@ -11770,6 +11989,10 @@
             "route": "road",
             "network": "US:PR"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:PR"
+        },
         "name": "Puerto Rico Highway",
         "terms": [
             "pr"
@@ -11785,6 +12008,10 @@
             "type": "route",
             "route": "road",
             "network": "US:RI"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:RI"
         },
         "name": "Rhode Island Route",
         "terms": [
@@ -11802,6 +12029,10 @@
             "route": "road",
             "network": "US:SC"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:SC"
+        },
         "name": "South Carolina Highway",
         "terms": [
             "sc"
@@ -11818,6 +12049,10 @@
             "route": "road",
             "network": "US:SD"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:SD"
+        },
         "name": "South Dakota Highway",
         "terms": [
             "sd"
@@ -11833,6 +12068,10 @@
             "type": "route",
             "route": "road",
             "network": "US:TN"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:TN"
         },
         "name": "Tennessee State Route",
         "terms": [
@@ -11851,6 +12090,10 @@
             "route": "road",
             "network": "US:TX:Beltway"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:Beltway"
+        },
         "name": "Texas State Highway Beltway",
         "terms": [
             "bw"
@@ -11866,6 +12109,10 @@
             "type": "route",
             "route": "road",
             "network": "US:TX:FM"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:FM"
         },
         "name": "Texas Farm to Market Road",
         "terms": [
@@ -11887,6 +12134,10 @@
             "route": "road",
             "network": "US:TX:Loop"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:Loop"
+        },
         "name": "Texas State Highway Loop",
         "terms": [
             "texas loop"
@@ -11902,6 +12153,10 @@
             "type": "route",
             "route": "road",
             "network": "US:TX:NASA"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:NASA"
         },
         "name": "Texas NASA Road",
         "terms": [
@@ -11919,6 +12174,10 @@
             "route": "road",
             "network": "US:TX:PR"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:PR"
+        },
         "name": "Texas Park Road",
         "terms": [
             "pr"
@@ -11935,6 +12194,10 @@
             "route": "road",
             "network": "US:TX:REC"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:REC"
+        },
         "name": "Texas Recreational Road",
         "terms": [
             "re"
@@ -11950,6 +12213,10 @@
             "type": "route",
             "route": "road",
             "network": "US:TX:RM"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:RM"
         },
         "name": "Texas Ranch to Market Road",
         "terms": [
@@ -11968,6 +12235,10 @@
             "route": "road",
             "network": "US:TX:Spur"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:Spur"
+        },
         "name": "Texas State Highway Spur",
         "terms": [
             "texas spur"
@@ -11984,6 +12255,10 @@
             "route": "road",
             "network": "US:TX:Toll"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:TX:Toll"
+        },
         "name": "Texas Toll Road",
         "terms": [],
         "icon": "route-road",
@@ -11997,6 +12272,10 @@
             "type": "route",
             "route": "road",
             "network": "US:TX"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:TX"
         },
         "name": "Texas State Highway",
         "terms": [
@@ -12013,6 +12292,10 @@
             "type": "route",
             "route": "road",
             "network": "US:US"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:US"
         },
         "name": "U.S. Route",
         "terms": [
@@ -12036,6 +12319,10 @@
             "route": "road",
             "network": "US:UT"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:UT"
+        },
         "name": "Utah State Route",
         "terms": [
             "ut"
@@ -12052,6 +12339,10 @@
             "route": "road",
             "network": "US:VA:secondary"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:VA:secondary"
+        },
         "name": "Virginia Secondary State Route",
         "terms": [
             "va"
@@ -12067,6 +12358,10 @@
             "type": "route",
             "route": "road",
             "network": "US:VA"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:VA"
         },
         "name": "Virginia State Route",
         "terms": [
@@ -12086,6 +12381,10 @@
             "route": "road",
             "network": "US:VT"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:VT"
+        },
         "name": "Vermont Route",
         "terms": [
             "vermont state highway",
@@ -12104,6 +12403,10 @@
             "route": "road",
             "network": "US:WA"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:WA"
+        },
         "name": "Washington State Route",
         "terms": [
             "wa"
@@ -12119,6 +12422,10 @@
             "type": "route",
             "route": "road",
             "network": "US:WI"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:WI"
         },
         "name": "Wisconsin State Trunk Highway",
         "terms": [
@@ -12137,6 +12444,10 @@
             "route": "road",
             "network": "US:WV"
         },
+        "reference": {
+            "key": "network",
+            "value": "US:WV"
+        },
         "name": "West Virginia Route",
         "terms": [
             "west virginia state route",
@@ -12153,6 +12464,10 @@
             "type": "route",
             "route": "road",
             "network": "US:WY"
+        },
+        "reference": {
+            "key": "network",
+            "value": "US:WY"
         },
         "name": "Wyoming Highway",
         "terms": [

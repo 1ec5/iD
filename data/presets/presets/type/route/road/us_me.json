@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:ME"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:ME"
+    },
     "name": "Maine State Route",
     "terms": [
         "me"

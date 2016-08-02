@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:NJ"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:NJ"
+    },
     "name": "New Jersey Route",
     "terms": [
         "new jersey state highway route",

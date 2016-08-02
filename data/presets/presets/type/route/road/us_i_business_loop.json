@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:I:Business:Loop"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:I:Business:Loop"
+    },
     "name": "Interstate Business Loop",
     "terms": [
         "bl"

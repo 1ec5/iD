@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:WA"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:WA"
+    },
     "name": "Washington State Route",
     "terms": [
         "wa"

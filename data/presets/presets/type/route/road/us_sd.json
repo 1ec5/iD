@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:SD"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:SD"
+    },
     "name": "South Dakota Highway",
     "terms": [
         "sd"

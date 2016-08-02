@@ -5,13 +5,16 @@
     "tags": {
         "type": "route",
         "route": "road",
-        "network": "US:VT"
+        "network": "US:NE"
     },
-    "name": "Vermont Route",
+    "reference": {
+        "key": "network",
+        "value": "US:NE"
+    },
+    "name": "Nebraska Highway",
     "terms": [
-        "vermont state highway",
-        "vt route",
-        "vt"
+        "nebraska state highway",
+        "ne"
     ],
     "icon": "route-road",
     "fields": []

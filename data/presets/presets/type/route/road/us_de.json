@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:DE"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:DE"
+    },
     "name": "Delaware Route",
     "terms": [
         "delaware state route",

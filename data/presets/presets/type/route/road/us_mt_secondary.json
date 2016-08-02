@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:MT:secondary"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:MT:secondary"
+    },
     "name": "Montana Secondary Highway",
     "terms": [],
     "icon": "route-road",

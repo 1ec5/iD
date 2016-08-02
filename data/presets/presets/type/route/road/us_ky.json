@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:KY"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:KY"
+    },
     "name": "Kentucky Route",
     "terms": [
         "kentucky state highway",

@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:I:Business:Spur"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:I:Business:Spur"
+    },
     "name": "Interstate Business Spur",
     "terms": [
         "business spur interstate",

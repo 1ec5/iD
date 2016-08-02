@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TX:Beltway"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TX:Beltway"
+    },
     "name": "Texas State Highway Beltway",
     "terms": [
         "bw"

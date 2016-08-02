@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TX"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TX"
+    },
     "name": "Texas State Highway",
     "terms": [
         "tx"

@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TX:PR"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TX:PR"
+    },
     "name": "Texas Park Road",
     "terms": [
         "pr"

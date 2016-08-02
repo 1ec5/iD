@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:IN"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:IN"
+    },
     "name": "Indiana State Road",
     "terms": [
         "in"

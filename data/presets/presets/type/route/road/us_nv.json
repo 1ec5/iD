@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:NV"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:NV"
+    },
     "name": "Nevada State Route",
     "terms": [
         "nv"

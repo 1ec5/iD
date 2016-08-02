@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:UT"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:UT"
+    },
     "name": "Utah State Route",
     "terms": [
         "ut"

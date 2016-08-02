@@ -5,9 +5,13 @@
     "tags": {
         "type": "route",
         "route": "road",
-        "network": "US:TX:PR"
+        "network": "US:PA:Turnpike"
     },
-    "name": "Texas Park Road",
+    "reference": {
+        "key": "network",
+        "value": "US:PA:Turnpike"
+    },
+    "name": "Pennsylvania Turnpike",
     "terms": [
         "pr"
     ],

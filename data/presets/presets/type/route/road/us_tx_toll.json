@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TX:Toll"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TX:Toll"
+    },
     "name": "Texas Toll Road",
     "terms": [],
     "icon": "route-road",

@@ -2624,11 +2624,11 @@
         },
         {
             "key": "network",
-            "value": "US:LA"
+            "value": "US:MN"
         },
         {
             "key": "network",
-            "value": "US:MO"
+            "value": "US:MO:Supplemental"
         },
         {
             "key": "network",
@@ -2664,11 +2664,11 @@
         },
         {
             "key": "network",
-            "value": "US:NE"
+            "value": "US:NE:Spur"
         },
         {
             "key": "network",
-            "value": "US:VT"
+            "value": "US:NE"
         },
         {
             "key": "network",
@@ -2708,7 +2708,7 @@
         },
         {
             "key": "network",
-            "value": "US:TX:PR"
+            "value": "US:PA:Turnpike"
         },
         {
             "key": "network",

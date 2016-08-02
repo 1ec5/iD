@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:KY:Parkway"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:KY:Parkway"
+    },
     "name": "Kentucky Parkway",
     "terms": [],
     "icon": "route-road",

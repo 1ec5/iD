@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:AL"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:AL"
+    },
     "name": "Alabama State Route",
     "terms": [
         "al"

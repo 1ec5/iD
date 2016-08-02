@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:VT"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:VT"
+    },
     "name": "Vermont Route",
     "terms": [
         "vermont state highway",

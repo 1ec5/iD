@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:WI"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:WI"
+    },
     "name": "Wisconsin State Trunk Highway",
     "terms": [
         "wisconsin highway",

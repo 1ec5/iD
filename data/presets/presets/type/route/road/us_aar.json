@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:AAR"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:AAR"
+    },
     "name": "All-American Road",
     "terms": [
         "aar"

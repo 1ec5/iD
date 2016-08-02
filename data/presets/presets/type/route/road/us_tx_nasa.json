@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TX:NASA"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TX:NASA"
+    },
     "name": "Texas NASA Road",
     "terms": [
         "nasa"

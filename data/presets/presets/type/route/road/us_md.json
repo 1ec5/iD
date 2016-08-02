@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:MD"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:MD"
+    },
     "name": "Maryland Route",
     "terms": [
         "maryland state highway",

@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:OK"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:OK"
+    },
     "name": "Oklahoma State Highway",
     "terms": [
         "ok"

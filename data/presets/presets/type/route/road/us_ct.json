@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:CT"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:CT"
+    },
     "name": "Connecticut Route",
     "terms": [
         "connecticut state highway",

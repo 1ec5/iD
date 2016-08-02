@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:OR"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:OR"
+    },
     "name": "Oregon Route",
     "terms": [
         "or"

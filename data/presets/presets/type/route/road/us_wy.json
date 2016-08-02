@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:WY"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:WY"
+    },
     "name": "Wyoming Highway",
     "terms": [
         "wyoming state highway",

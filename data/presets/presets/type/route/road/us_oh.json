@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:OH"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:OH"
+    },
     "name": "Ohio State Route",
     "terms": [
         "ohio state highway",

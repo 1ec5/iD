@@ -7,6 +7,10 @@
         "route": "road",
         "network": "US:TX:Loop"
     },
+    "reference": {
+        "key": "network",
+        "value": "US:TX:Loop"
+    },
     "name": "Texas State Highway Loop",
     "terms": [
         "texas loop"

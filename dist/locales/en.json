@@ -4233,8 +4233,8 @@
                 "terms": "mi"
             },
             "type/route/road/us_mn": {
-                "name": "Louisiana Highway",
-                "terms": "louisiana state highway,la"
+                "name": "Minnesota State Highway",
+                "terms": "minnesota trunk highway,mn"
             },
             "type/route/road/us_mo_supplemental": {
                 "name": "Missouri Supplemental Route",
@@ -4277,8 +4277,8 @@
                 "terms": ""
             },
             "type/route/road/us_ne": {
-                "name": "Vermont Route",
-                "terms": "vermont state highway,vt route,vt"
+                "name": "Nebraska Highway",
+                "terms": "nebraska state highway,ne"
             },
             "type/route/road/us_nj": {
                 "name": "New Jersey Route",
@@ -4317,7 +4317,7 @@
                 "terms": "or"
             },
             "type/route/road/us_pa_turnpike": {
-                "name": "Texas Park Road",
+                "name": "Pennsylvania Turnpike",
                 "terms": "pr"
             },
             "type/route/road/us_pa": {
