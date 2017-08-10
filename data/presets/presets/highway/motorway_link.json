@@ -3,6 +3,8 @@
     "fields": [
         "ref",
         "oneway_yes",
+        "destination",
+        "destination_ref",
         "maxspeed",
         "lanes",
         "surface",
